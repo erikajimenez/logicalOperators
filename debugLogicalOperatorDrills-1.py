@@ -58,4 +58,4 @@ b = False
 # )Correct:
 a = True
 b  False
-not(a == b) and (a == True
+not(a == b) and (a == True)
